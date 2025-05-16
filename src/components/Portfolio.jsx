@@ -173,7 +173,7 @@ function HomePage({ info, setActiveSection }) {
       </div>
       <div className="md:w-1/2 text-center">
         <img
-          src="profile.jpg"
+          src="me.jpg"
           alt={`${info.name} profile`}
           className="mx-auto rounded-full w-40 h-40 object-cover mb-4"
         />
