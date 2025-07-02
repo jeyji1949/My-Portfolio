@@ -1,7 +1,3 @@
-import { FaHtml5, FaCss3Alt, FaJsSquare, FaReact, FaNodeJs } from 'react-icons/fa';
-import { SiTailwindcss, SiFigma, SiGit } from 'react-icons/si';
-import skills from '../data/skills'; // Assuming skills are imported from a data file
-
 export default function SkillsPage({ skills }) {
   return (
     <div className="py-12 bg-gradient-to-br from-gray-100 to-white min-h-screen">
